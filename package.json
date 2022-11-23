@@ -37,7 +37,7 @@
     "proptypes": "^1.1.0",
     "react": "^16.10.1",
     "react-dom": "^16.10.1",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.5.0",
     "uglifyjs-webpack-plugin": "^2.2.0",
     "url": "^0.11.0",
     "webpack": "^4.41.0",
